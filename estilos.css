@@ -1,0 +1,100 @@
+body {
+    background: rgb(202, 9, 217);
+    background: radial-gradient(circle, rgba(202, 9, 217, 1) 8%, rgba(171, 127, 231, 1) 27%, rgba(171, 54, 207, 1) 63%, rgba(146, 0, 215, 1) 85%);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+head {
+
+    color: white;
+
+}
+
+table {
+
+    background: rgb(96, 39, 246);
+    background: linear-gradient(90deg, rgba(96, 39, 246, 1) 0%, rgba(148, 38, 193, 1) 50%, rgba(242, 129, 227, 1) 100%);
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    color: white;
+    box-shadow: ;
+
+}
+
+td,
+th {
+
+    border-bottom: 2px solid white;
+    font-weight: 900;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+tr:hover {
+    background-color: rgb(70, 9, 119);
+    color: rgb(255, 255, 255);
+}
+
+img {
+
+    width: 70%;
+}
+
+td footer img {
+    width: 60%;
+}
+
+footer ul {
+    list-style: none;
+}
+
+#redes {
+    text-align: center;
+}
+
+#redes li {
+    display: inline-block;
+}
+
+.redes {
+    display: inline-block;
+    margin: 20px;
+}
+
+p {
+
+    text-align: center;
+    color: white;
+}
+
+#redes img {
+
+
+    width: 50%;
+}
+tr{
+
+font-size: 1.1em;
+
+
+}
+.imagen {
+    width: 15%;
+}
+#foot{
+
+    font-size: 1.5em;
+}
+th{
+    text-align: right;
+   
+
+}
+ 
